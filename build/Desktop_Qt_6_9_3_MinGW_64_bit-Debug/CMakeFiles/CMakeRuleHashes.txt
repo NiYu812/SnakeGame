@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+b8ca23ad33efe9d7021c8e081a0525a1 CMakeFiles/SnakeGame_autogen
+a2b54eefc308db538d0733b255e982d1 SnakeGame_autogen/timestamp

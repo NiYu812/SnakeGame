@@ -1,0 +1,5 @@
+D:/Users/逆鱼/Documents/trae_projects/Snake/tare-09/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/CMakeFiles/SnakeGame.dir
+D:/Users/逆鱼/Documents/trae_projects/Snake/tare-09/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+D:/Users/逆鱼/Documents/trae_projects/Snake/tare-09/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+D:/Users/逆鱼/Documents/trae_projects/Snake/tare-09/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/CMakeFiles/SnakeGame_autogen_timestamp_deps.dir
+D:/Users/逆鱼/Documents/trae_projects/Snake/tare-09/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/CMakeFiles/SnakeGame_autogen.dir
