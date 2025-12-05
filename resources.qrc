@@ -1,0 +1,9 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource>
+        <!-- 可以在这里添加游戏资源，如图片、音效等 -->
+        <!-- <file>images/icon.png</file> -->
+        <!-- <file>sounds/eat.wav</file> -->
+        <!-- <file>sounds/gameover.wav</file> -->
+    </qresource>
+</RCC>
